@@ -1,0 +1,4 @@
+C:/Users/Cezar Bretan/Documents/GitHub/Life_After_School/cmake-build-debug/CMakeFiles/Life_After_School.dir
+C:/Users/Cezar Bretan/Documents/GitHub/Life_After_School/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cezar Bretan/Documents/GitHub/Life_After_School/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Cezar Bretan/Documents/GitHub/Life_After_School/cmake-build-debug/CMakeFiles/Life_After_School_autogen.dir

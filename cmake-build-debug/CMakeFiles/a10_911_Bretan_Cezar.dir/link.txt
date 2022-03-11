@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\a10_911_Bretan_Cezar.dir/objects.a
+D:\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\a10_911_Bretan_Cezar.dir/objects.a @CMakeFiles\a10_911_Bretan_Cezar.dir\objects1.rsp
+D:\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\a10_911_Bretan_Cezar.dir/objects.a -Wl,--no-whole-archive -o a10_911_Bretan_Cezar.exe -Wl,--out-implib,liba10_911_Bretan_Cezar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a10_911_Bretan_Cezar.dir\linklibs.rsp
