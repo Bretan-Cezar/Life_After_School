@@ -6,6 +6,9 @@ Admin mode features:
   
   - Event addition, removal and updating
   - Undo/Redo (using Command Design Pattern)
+  - 
+  ![admin_page](https://user-images.githubusercontent.com/39191865/159026119-2514769f-829e-4d9b-80f9-e176e3d2b8e7.png)
+
 
 User mode features:
 
